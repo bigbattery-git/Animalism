@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WolfAnimation
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ad6f3e8a1bdb5704ab13d77b6285a0ff, type: 3}
+    - {fileID: 2800000, guid: 7a80b2bbb76df594889916c013f748b8, type: 3}
+    - {fileID: 2800000, guid: 597b001c693a27544aee7292c1118224, type: 3}
+    - {fileID: 2800000, guid: 4c8ddacb1cb6ffd45bdd91923014fd62, type: 3}
+    - {fileID: 2800000, guid: 425ec4fa43e78c94892b6e17670a6c6e, type: 3}
+    - {fileID: 2800000, guid: 4a8dfd8f0562f3f4c84a1f7d47749689, type: 3}
+    - {fileID: 2800000, guid: 451c7500d14528646bc121024d3bd6a5, type: 3}
+    - {fileID: 2800000, guid: 984f815cef3fc2f4caf510bfa87b32d9, type: 3}
+    - {fileID: 2800000, guid: 8257ac8260d5e154e86a8aa62779cd19, type: 3}
+    - {fileID: 2800000, guid: d79171c054e4d6148a942667b9aabb53, type: 3}
+    - {fileID: 2800000, guid: adfe095156f0fc446bc0b43ca178fd1b, type: 3}
+    - {fileID: 2800000, guid: f4ebd1dcd896b8347a2f1c6c4728a40b, type: 3}
+    - {fileID: 2800000, guid: c0ab94c03faa3ee448c04c55eb28a619, type: 3}
+    - {fileID: 2800000, guid: 312cadcd0bbce3b47a2e6164da187215, type: 3}
+    - {fileID: 2800000, guid: 6f52b09d01abc4546995d0102670a5ef, type: 3}
+    - {fileID: 2800000, guid: e3df2d3e5f70d5946bfbf4ff751325d8, type: 3}
+    - {fileID: 2800000, guid: e72f1db5f05647b428e1bab5a18df763, type: 3}
+    - {fileID: 2800000, guid: a2f68159d84759544903387fabd316eb, type: 3}
+    - {fileID: 2800000, guid: 59878ab49d386bc4aaaa15a532eb1645, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 451c7500d14528646bc121024d3bd6a5, type: 3}
+  - {fileID: 21300000, guid: d79171c054e4d6148a942667b9aabb53, type: 3}
+  - {fileID: 21300000, guid: c0ab94c03faa3ee448c04c55eb28a619, type: 3}
+  - {fileID: 21300000, guid: adfe095156f0fc446bc0b43ca178fd1b, type: 3}
+  - {fileID: 21300000, guid: 8257ac8260d5e154e86a8aa62779cd19, type: 3}
+  - {fileID: 21300000, guid: 59878ab49d386bc4aaaa15a532eb1645, type: 3}
+  - {fileID: 21300000, guid: e72f1db5f05647b428e1bab5a18df763, type: 3}
+  - {fileID: 21300000, guid: a2f68159d84759544903387fabd316eb, type: 3}
+  - {fileID: 21300000, guid: ad6f3e8a1bdb5704ab13d77b6285a0ff, type: 3}
+  - {fileID: 21300000, guid: 425ec4fa43e78c94892b6e17670a6c6e, type: 3}
+  - {fileID: 21300000, guid: 7a80b2bbb76df594889916c013f748b8, type: 3}
+  - {fileID: 21300000, guid: 4c8ddacb1cb6ffd45bdd91923014fd62, type: 3}
+  - {fileID: 21300000, guid: 597b001c693a27544aee7292c1118224, type: 3}
+  - {fileID: 21300000, guid: 984f815cef3fc2f4caf510bfa87b32d9, type: 3}
+  - {fileID: 21300000, guid: f4ebd1dcd896b8347a2f1c6c4728a40b, type: 3}
+  - {fileID: 21300000, guid: 6f52b09d01abc4546995d0102670a5ef, type: 3}
+  - {fileID: 21300000, guid: 312cadcd0bbce3b47a2e6164da187215, type: 3}
+  - {fileID: 21300000, guid: e3df2d3e5f70d5946bfbf4ff751325d8, type: 3}
+  - {fileID: 21300000, guid: 4a8dfd8f0562f3f4c84a1f7d47749689, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Donut6
+  - Donut9
+  - Donut12
+  - Donut10
+  - Donut8
+  - Tail3
+  - Tail1
+  - Tail2
+  - Donut0
+  - Donut4
+  - Donut1
+  - Donut3
+  - Donut2
+  - Donut7
+  - Donut11
+  - Eyes0
+  - Ear0
+  - Tail0
+  - Donut5
+  m_RenderDataMap: {}
+  m_Tag: WolfAnimation
+  m_IsVariant: 0

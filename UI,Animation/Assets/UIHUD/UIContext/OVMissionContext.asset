@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad5d791bc9f4c934d8a01339e7c79796, type: 3}
+  m_Name: OVMissionContext
+  m_EditorClassIdentifier: 
+  missionGage: 0
+  completedMissionCount: 0
+  needToCompletedMissionCount: 0
+  missionItemMaxCount: 0
+  ovUIMissions:
+  - Id: 1
+    Name: 11111
+    IsCompleted: 0
+    IsGrabbed: 0
+  - Id: 2
+    Name: 22222
+    IsCompleted: 0
+    IsGrabbed: 0
+  - Id: 3
+    Name: 33333
+    IsCompleted: 0
+    IsGrabbed: 0
+  isOpenedMissionBox: 0
+  grabbedMission:
+    Id: 0
+    Name: 
+    IsCompleted: 0
+    IsGrabbed: 0
