@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FindRingSprites
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d2af4d3fd300b304981a99ad231e1ad3, type: 3}
+    - {fileID: 2800000, guid: 17057eba44f250f4cb483003577f3ce1, type: 3}
+    - {fileID: 2800000, guid: 56d7314ef9e35a14282bd02d1bb342a7, type: 3}
+    - {fileID: 2800000, guid: e890184f97c56b24e80624f30ce936ac, type: 3}
+    - {fileID: 2800000, guid: cea4285e5d438404a89e7ea543a95848, type: 3}
+    - {fileID: 2800000, guid: 900fe6ea8371c284cbe8aed1c73569c2, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 17057eba44f250f4cb483003577f3ce1, type: 3}
+  - {fileID: 21300000, guid: 900fe6ea8371c284cbe8aed1c73569c2, type: 3}
+  - {fileID: 21300000, guid: 56d7314ef9e35a14282bd02d1bb342a7, type: 3}
+  - {fileID: 21300000, guid: cea4285e5d438404a89e7ea543a95848, type: 3}
+  - {fileID: 21300000, guid: d2af4d3fd300b304981a99ad231e1ad3, type: 3}
+  - {fileID: 21300000, guid: e890184f97c56b24e80624f30ce936ac, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BluePrint
+  - Ring
+  - Obstacle1
+  - Obstacle3
+  - Background
+  - Obstacle2
+  m_RenderDataMap: {}
+  m_Tag: FindRingSprites
+  m_IsVariant: 0

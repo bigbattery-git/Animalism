@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f332cc3cdaed54a42b7e7ab6b7ce202d, type: 3}
+  m_Name: NPC Talk Data_Wolf
+  m_EditorClassIdentifier: 
+  talkingData:
+  - talkBubbleData: "\uBBFC\uC2DD\uC774 \uBBFC\uC2DD\uC774"
+    talkBubbleWorngData: "\uBB50\uB798 \uBCD1\uC2E0\uC774"
+    correctID: 0
+    talkSelectData:
+    - selectID: 0
+      selectText: "\uC5B4? \uBBFC\uC2DD\uC774 \uBABB\uC0DD\uAE34 \uC560 \uC544\uB2D8?"
+    - selectID: 1
+      selectText: "\uADF8 \uC874\uC554\uC744 \uD568\uBD80\uB7EC \uB9D0\uD558\uBA74
+        \uC548\uB428"
+    - selectID: 2
+      selectText: "\uAE85 \uC798\uC0DD\uACBC\uC5B4\uC694!!"
+  - talkBubbleData: "\uC544\uB2C8 \uBB34\uC2A8 \uB9D0\uC744 \uADF8\uB807\uAC8C \uD558\uB0D0;;"
+    talkBubbleWorngData: "\uBB50\uB798 \uBCD1\uC2E0\uC774"
+    correctID: 0
+    talkSelectData:
+    - selectID: 0
+      selectText: "\uB0B4\uAC00 \uD2C0\uB9B0\uB9D0 \uD588\uB0D0?"
+    - selectID: 1
+      selectText: "\uB0B4\uAC00 \uB9D0\uC774 \uC2EC\uD588\uB2E4"
+    - selectID: 2
+      selectText: "\uC74C.. \uAE4A\uAC8C \uC0DD\uAC01\uD574 \uBCFC \uBB38\uC81C\uC778
+        \uAC83 \uAC19\uC544"
+  - talkBubbleData: "\uC544\uB2C8 \uD2C0\uB9B0\uB9D0\uC740 \uC544\uB2C8\uC9C0\uB9CC..."
+    talkBubbleWorngData: "\u314B\u314B\u314B \uADF8\uAC78 \uC18D\uB0D0"
+    correctID: 0
+    talkSelectData:
+    - selectID: 0
+      selectText: "\uADF8\uB798\uC11C, \uB0B4 \uB9D0\uC774 \uD2C0\uB824?"
+    - selectID: 1
+      selectText: "\uADF8\uB798\uB3C4 \uB0B4\uAC00 \uC880 \uC2EC\uD588\uB098..."
+    - selectID: 2
+      selectText: ...
+  talkFinishMissionData: "\uB124 \uB9D0\uC774 \uB9DE\uB2E4!"

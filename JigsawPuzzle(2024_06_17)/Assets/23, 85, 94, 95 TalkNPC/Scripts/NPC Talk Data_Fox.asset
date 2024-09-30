@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f332cc3cdaed54a42b7e7ab6b7ce202d, type: 3}
+  m_Name: NPC Talk Data_Fox
+  m_EditorClassIdentifier: 
+  talkingData:
+  - talkBubbleData: "\uC5EC\uAE30\uB294 \uC740\uD589\uC785\uB2C8\uB2E4. \uBB34\uC2A8\uC77C\uB85C
+      \uC624\uC168\uB098\uC694?"
+    talkBubbleWorngData: "\uADF8\uAC74 \uC5EC\uAE30\uC11C \uD560 \uC218 \uC5C6\uC2B5\uB2C8\uB2E4..."
+    correctID: 0
+    talkSelectData:
+    - selectID: 0
+      selectText: "\uC774 \uB9C8\uC744\uC758 \uC0AC\uAC74\uACFC \uAD00\uB828\uD574\uC11C
+        \uB4E4\uB838\uC2B5\uB2C8\uB2E4."
+    - selectID: 1
+      selectText: "\uC6B0\uB9B0 \uAC15\uB3C4\uB2E4!! \uB3C8\uB0B4\uB194!!"
+    - selectID: 2
+      selectText: "10\uC5B5\uB2EC\uB7EC \uC815\uB3C4 \uAC00\uC9C0\uB7EC \uC654\uC2B5\uB2C8\uB2E4\uB9CC?"
+  - talkBubbleData: "\uADF8\uB807\uAD70\uC694. \uD558\uC9C0\uB9CC \uC804 \uC740\uD589\uC6D0\uC774\uB77C
+      \uB3C4\uC6B8 \uC218 \uC788\uB294 \uC77C\uC774 \uC5C6\uC2B5\uB2C8\uB2E4."
+    talkBubbleWorngData: "\uC804 \uBAA8\uB974\uB294 \uC77C\uC774\uB77C\uAD6C\uC694!"
+    correctID: 0
+    talkSelectData:
+    - selectID: 0
+      selectText: "\uC74C.. \uADF8\uB7FC \uC0AC\uAC74\uC774 \uBC1C\uC0DD\uD588\uB294\uB370,
+        \uBCF8\uC778\uC740 \uAD1C\uCC2E\uC73C\uC2E0\uAC00\uC694?"
+    - selectID: 1
+      selectText: "\uB2F9\uC2E0\uC774 \uBC94\uC778 \uC544\uB2C8\uC57C?"
+    - selectID: 2
+      selectText: "\uB9C8\uC744 \uC8FC\uBBFC\uC77C\uD150\uB370 \uB9D0\uC500 \uD55C
+        \uB9C8\uB514\uB3C4 \uC5EC\uCB64\uBCFC \uC218 \uC5C6\uB098\uC694?"
+  - talkBubbleData: "\uC808 \uAC71\uC815\uD574\uC8FC\uC154\uC11C \uACE0\uB9C8\uC6CC\uC694.
+      \uC870\uAE08 \uBB34\uC12D\uC9C0\uB9CC \uC2DC\uAC04\uC774 \uD574\uACB0\uD574\uC904\uAEBC\uC5D0\uC694"
+    talkBubbleWorngData: "\uC800\uB9AC\uAC00\uC138\uC694 \uC81C\uBC1C!"
+    correctID: 0
+    talkSelectData:
+    - selectID: 0
+      selectText: "\uC704\uCABD\uC5D0 \uACBD\uCC30\uC11C\uC5D0 \uC2E0\uBCC0\uBCF4\uD638\uB97C
+        \uC694\uCCAD\uD558\uC2DC\uBA74 \uB3C4\uC6C0\uC774 \uB418\uC2E4\uAECD\uB2C8\uB2E4."
+    - selectID: 1
+      selectText: "\uADF8\uB9AC \uAC71\uC815\uB418\uC2DC\uBA74 \uC65C \uC5EC\uAE30
+        \uAC00\uB9CC\uD788\uC788\uC8E0?"
+    - selectID: 2
+      selectText: "\uAC71\uC815\uB41C\uB2E4\uB294\uAC8C \uBB34\uC2A8\uB9D0\uC500\uC774\uC8E0?
+        \uBCF8\uC778\uC774 \uBC94\uC778\uC778\uAC00\uC694?"
+  talkFinishMissionData: "\uB135 \uB3C4\uC640\uC8FC\uC154\uC11C \uAC10\uC0AC\uD569\uB2C8\uB2E4!"
